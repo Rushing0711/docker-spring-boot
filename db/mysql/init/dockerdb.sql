@@ -22,6 +22,3 @@ CREATE TABLE `t_user`
 -- 用户表
 use dockerdb;
 DROP TABLE IF EXISTS `t_user`;
-;
-
-select version();
